@@ -49,7 +49,7 @@ When I began this project, I had to identify my bias. I am not very trusting of 
 
 When I looked at the dataset with the student information, the very first thing that drew my eyes was the effect AI had on GPA. I was prepared for it to impact negatively, but according to the charts below, I see that for the most part, the increase in GPA seems to far outnumber the cases where GPA decreased or stayed the same. 
 
-[pie charts]
+<img width="636" height="658" alt="image" src="https://github.com/user-attachments/assets/cdd19a60-b9ef-4290-a6ab-ea4db45e72d7" />
 
 I chose three of the educational usage cases out of the five due to their difference in medium. I checked Essay Drafting, which I could easily see being impacted positively since that is something a student can use in the moment to boost the quality of their work. I expected Exam Prep to more negatively impact GPA, due to it being something you use initially and then perform the task without the direct use of AI in the moment, however just like in the other cases, there are more increases in GPA than there are decreases or unchanged GPAs combined.
 
